@@ -1,3 +1,5 @@
-# EduAssetVerify demo page
+# EduAssetVerify: demo page
 
-Served by GitHub Pages from the root of `main`: https://tklovln.github.io/eduassetverify-demo/
+Static project page of the paper (`index.html`): one test asset through every module, the
+counterfactual pairs, the result tables, and all 900 test assets with every verdict of every pass.
+All files are generated from the experiment records; do not edit them by hand.
